@@ -44,4 +44,4 @@ Please contact king.jordan {-AT-} biology.gatech.edu for any queries/suggestions
 
 + King Jordan, Georgia Tech
 + Leonardo Mariño-Ramírez, NIMHD 
-+ Shashwat, Shashwat Deepali Nagar
++ Shashwat Deepali Nagar, Georgia Tech
