@@ -33,3 +33,15 @@ These notebooks were created for **Fulbright Catedra (August 2021)** and were me
 ## About the data
 
 The raw data required for running the notebooks is present in the `data/` folder. However, keeping the space constrains in mind, only the raw VCF files are shared. You will have to create the associated PED/BED files for processing manually. However, if you need any specific files, please reach out to us on email.
+
+
+## Contact
+
+Please contact king.jordan {-AT-} biology.gatech.edu for any queries/suggestions.
+
+
+## Acknowledgements
+
++ King Jordan, Georgia Tech
++ Leonardo Mariño-Ramírez, NIMHD 
++ Shashwat, Shashwat Deepali Nagar
