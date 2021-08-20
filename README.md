@@ -18,7 +18,7 @@
         
         + Don't forget to enable R in jupyter notebooks using `IRkernel::installspec()` in your R server.
 
-        + You will also need the R packages: `install.packages("tidyverse")`, `install.packages(dplyr)`, `install.packages(plyr)`, `install.packages(reshape2)`
+        + You will also need the R packages: `install.packages("tidyverse")`, `install.packages(dplyr)`, `install.packages(plyr)`, `install.packages(reshape2)`, & `install.packages("vcfR")`
         
         + VEP tool: `conda install -c bioconda ensembl-vep`
         
@@ -32,4 +32,4 @@ These notebooks were created for **Fulbright Catedra (August 2021)** and were me
         
 ## About the data
 
-The raw data required for running the notebooks is present in the `data/` folder. Hwever, keeping the space constrains in mind, only the raw VCF files are shared. You will have to create the associated PED/BED files for processing manually. However, if you need any specific files, please reach out to us on email.
+The raw data required for running the notebooks is present in the `data/` folder. However, keeping the space constrains in mind, only the raw VCF files are shared. You will have to create the associated PED/BED files for processing manually. However, if you need any specific files, please reach out to us on email.
