@@ -27,6 +27,6 @@
         
 ## About the notebooks
 
-These notebooks were created for *Fulbright Catedra (August 2021)* and were meant to be used parallel to our presentation slides. These notebooks will guide your though most of the functionalities that are discussed during our presentations.*
+These notebooks were created for *Fulbright Catedra (August 2021)* and were meant to be used parallel to our presentation slides. These notebooks will guide your though most of the functionalities that are discussed during our presentations.
         
         
