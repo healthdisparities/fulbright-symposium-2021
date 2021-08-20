@@ -27,6 +27,9 @@
         
 ## About the notebooks
 
-These notebooks were created for *Fulbright Catedra (August 2021)* and were meant to be used parallel to our presentation slides. These notebooks will guide your though most of the functionalities that are discussed during our presentations.
+These notebooks were created for **Fulbright Catedra (August 2021)** and were meant to be used parallel to our presentation slides. These notebooks will guide your though most of the functionalities that are discussed during our presentations.
         
         
+## About the data
+
+The raw data required for running the notebooks is present in the `data/` folder. Hwever, keeping the space constrains in mind, only the raw VCF files are shared. You will have to create the associated PED/BED files for processing manually. However, if you need any specific files, please reach out to us on email.
