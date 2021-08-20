@@ -1,6 +1,6 @@
-# Fulbright Symposium (August 2021)
+# Fulbright Cátedra (August 2021)
 
-### This repository contains jupyter notbooks for fulbright symposium.
+### This repository contains jupyter notbooks for fulbright Cátedra (symposium).
 
 ## Requirements
 
@@ -27,7 +27,7 @@
         
 ## About the notebooks
 
-These notebooks were created for **Fulbright Catedra (August 2021)** and were meant to be used parallel to our presentation slides. These notebooks will guide your though most of the functionalities that are discussed during our presentations.
+These notebooks were created for **Fulbright Cátedra (August 2021)** and were meant to be used parallel to our presentation slides. These notebooks will guide your though most of the functionalities that are discussed during our presentations.
         
         
 ## About the data
@@ -42,6 +42,7 @@ Please contact king.jordan {-AT-} biology.gatech.edu for any queries/suggestions
 
 ## Acknowledgements
 
++ Fulbright Cátedra
 + King Jordan, Georgia Tech
 + Leonardo Mariño-Ramírez, NIMHD 
 + Shashwat Deepali Nagar, Georgia Tech
