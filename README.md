@@ -47,7 +47,9 @@ Please contact king.jordan {-AT-} biology.gatech.edu for any queries/suggestions
 
 ## Acknowledgements
 
-+ Fulbright Cátedra
-+ King Jordan, Georgia Tech
-+ Leonardo Mariño-Ramírez, NIMHD 
-+ Shashwat Deepali Nagar, Georgia Tech
++ Fulbright Colombia
++ Augusto Valderrama-Aguirre, Universidad de Los Andes
++ Leonardo Mariño-Ramírez, National Institute on Minority Health and Health Disparities, NIH 
++ Shivam Sharma, National Institute on Minority Health and Health Disparities, NIH
++ King Jordan, Georgia Institute of Technology
++ Shashwat Deepali Nagar, Georgia Institute of Technology
